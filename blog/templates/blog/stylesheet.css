@@ -1,0 +1,70 @@
+/*color key
+blue- #6699FF
+orange- #FFA375
+brown- #A37469
+*/
+
+body {
+	background-color: #B2E6FF;
+	font-family: Trebuchet MS, sans-serif;
+}
+
+table {
+    background-color:#6699FF;
+    font-family: Tahoma, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+td {
+	width: 150px;
+	height:50px;
+	text-align:center;
+}
+
+#signup {
+	border-radius: 10px;
+	border: 2px solid #3902A9;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+	vertical-align: middle;
+	display: table-cell;
+}
+
+img {
+	border: none;
+	display: block;
+	margin: auto;
+	padding-bottom: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #FF6600;
+}
+
+.para {
+	border: 4px none #00A37A;
+	border-radius: 10px;
+	background-color: #DBFFFF;
+	padding: 10px 25px 10px 25px;
+	margin: 25px 50px 25px 50px;
+}
+
+ul ul{
+	list-style-type: square;
+}
+
+p {
+	text-align: justify;
+}
